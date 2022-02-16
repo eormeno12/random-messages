@@ -14,7 +14,16 @@
   "author": "Ernesto Ormeño <eormeno12@gmail.com>",
   "license": "MIT",
   "bin": {
-    "random-msg": "./bin/global.js"
+    "random-msg": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eormeno12/random-messages.git"
+  },
+  "bugs": {
+    "url": "https://github.com/eormeno12/random-messages/issues"
+  },
+  "homepage": "https://github.com/eormeno12/random-messages#readme"
 }
